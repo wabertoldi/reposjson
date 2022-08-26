@@ -1,11 +1,17 @@
 {
   "usuarios": [
     {"id": 1,
-     "nome": "Teste"
+     "nome": "Wolney",
+     "senha": "senha@123"
     },
     {"id": 2,
-     "nome": "outro"
-    }   
+     "nome": "Lucas",
+     "senha": "senha@321
+    },
+    {"id": 3,
+     "nome": "Rodrigo",
+     "senha": "senha@000"
+    }
   ],
   "produtos": [
     {"id": 1,
